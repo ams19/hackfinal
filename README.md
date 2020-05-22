@@ -1,4 +1,3 @@
-# hack
 EndowingHearts.com
 
 A fundraising platform for government schools in India aims to connect all such schools on a common front and thus providing ease for volunteers willing to donate.
